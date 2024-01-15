@@ -25,6 +25,7 @@ flutter pub get
 ## Aspectos de aprendizaje que cubre este ejercicio
 
 * Uso de widgets básicos de flutter
+* Construccion avanzada de layouts
 * Uso de widgets de material design
 * Uso de widgets de cupertino
 * Consumo de servicios REST
